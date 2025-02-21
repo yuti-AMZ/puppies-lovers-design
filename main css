@@ -1,0 +1,85 @@
+img{
+    max-width: 100%;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.blue{
+    background-color: rgb(15, 15, 166);
+}
+#myheader{
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.mybanner img{ 
+    width: 100%;
+}
+.mybanner{ 
+    margin-bottom: 80px;
+}
+.container1{
+    width: 940px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+.puppy1{
+    display: inline-block;
+}
+.parag{
+    display: inline-block;
+}
+.puppy2{
+    display: inline-block;
+}
+.puppy1,.parag,.puppy2{
+width: 33%;
+}
+.puppy1 img,.parag img,.puppy2 img{
+width: 100%;
+}
+.parag{
+    background-color:red;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.missing{
+    width: 100%;
+    color: black;
+    font-size: 54px;
+    text-align: center;
+   
+}
+
+.containerr{
+    width: 940;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+.puppy3{
+    margin-right: 20px;
+}
+.puppy4{
+    margin-left: 20px;
+}
+.container2{
+    width: 940px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+#myfooter{
+    color: white;
+     padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    margin-top: 74px;
+}
