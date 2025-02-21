@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Puppy lovers page</title>
+    <link rel="stylesheet" href="puppy.css">
+  </head>
+  <body>
+    <header id="myheader" class="blue">
+       <h1>Puppy lovers page</h1>
+    </header>
+    <section class="mybanner" >
+    <img  src="banner-puppies.jpg" alt="banner puppies">
+    </section>
+    <section class="fixedcontainer">
+    <section class="container1">
+   <div class="puppy1">
+    <img  src="puppy-1.jpg" alt="puppy 1">
+   </div>
+   <div class="parag">
+    <div class="missing">
+     puppy missing here!!
+    </div> 
+   </div>
+   <div class="puppy2">
+       <img  src="puppy-2.jpg" alt="puppy 2">
+   </div>
+    </section>
+   <section class="containerr">
+     <h1>More Puppies</h1>
+   </section> 
+    <section class="container2">
+       <div class="puppy3">
+        <img  src="puppy-3.jpg" alt=" puppy 3">
+       </div>
+       <div class="puppy4">
+        <img  src="puppy-4.jpg" alt="puppy 4">
+       </div>
+    </section>
+    </section>
+   <footer id="myfooter" class="blue">Devloped by: Hayat Zeynu</footer>
+  </body>
+</html>
